@@ -14,9 +14,9 @@ namespace Methods
 			return answer;
 		}
 
-		public static int Add(int num1, int num2, int num3)
+		public static int Multiply(int num1, int num2, int num3)
 		{
-			var answer = num1 + num2 + num3;
+			var answer = num1 * num2 + num3;
 			return answer;
 		}
 
@@ -31,11 +31,8 @@ namespace Methods
 			var plusFive = Plus(1, 1, 1,1,1 );
 			Console.WriteLine(plusFive);
 
-
-			var addThree = Add(2, 4, 6);
-            Console.WriteLine(addThree);
-
-
+			var timesThree = Multiply(2, 4, 6);
+			Console.WriteLine(timesThree);
 
 			var numOfPeople = Sum(2, 4);
             Console.WriteLine(numOfPeople);
