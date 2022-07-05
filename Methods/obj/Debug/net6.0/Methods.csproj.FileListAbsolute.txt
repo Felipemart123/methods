@@ -1,0 +1,15 @@
+/Users/guillermomartinez/repos/Methods/Methods/bin/Debug/net6.0/Methods
+/Users/guillermomartinez/repos/Methods/Methods/bin/Debug/net6.0/Methods.deps.json
+/Users/guillermomartinez/repos/Methods/Methods/bin/Debug/net6.0/Methods.runtimeconfig.json
+/Users/guillermomartinez/repos/Methods/Methods/bin/Debug/net6.0/Methods.dll
+/Users/guillermomartinez/repos/Methods/Methods/bin/Debug/net6.0/Methods.pdb
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/Methods.csproj.AssemblyReference.cache
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/Methods.AssemblyInfoInputs.cache
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/Methods.AssemblyInfo.cs
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/Methods.csproj.CoreCompileInputs.cache
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/Methods.dll
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/refint/Methods.dll
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/Methods.pdb
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/Methods.genruntimeconfig.cache
+/Users/guillermomartinez/repos/Methods/Methods/obj/Debug/net6.0/ref/Methods.dll
